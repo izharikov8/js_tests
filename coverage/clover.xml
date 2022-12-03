@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1670072196626" clover="3.2.0">
+  <project timestamp="1670072196626" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3" elements="22" coveredelements="22" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+    <file name="define.js" path="C:\Users\ivanz\Desktop\IT\Fullstak Developer\JavaScript углубленный курс\unit_test_1\src\js\define.js">
+      <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+    </file>
+    <file name="matchers.js" path="C:\Users\ivanz\Desktop\IT\Fullstak Developer\JavaScript углубленный курс\unit_test_1\src\js\matchers.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="12" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
