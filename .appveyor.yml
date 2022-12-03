@@ -1,5 +1,5 @@
 image: Ubuntu1804
-stack: node12
+stack: node16
 branches:
   only:
     - master
